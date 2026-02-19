@@ -8,7 +8,7 @@ and Architectural Saturation**
 This repository provides the exact CPU-only benchmarking script used to
 generate the inference scaling results reported in the paper.
 
-<img src="images/figure_thread_sweep_diagram_bg.png" width="600">
+<img src="images/figure_thread_sweep_diagram_bg.png" width="400">
 
 ------------------------------------------------------------------------
 
