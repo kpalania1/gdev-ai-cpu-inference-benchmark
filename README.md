@@ -1,3 +1,10 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2602.16858-b31b1b.svg)](https://arxiv.org/abs/2602.16858)
+
+## 📄 Paper
+
+GDEV-AI: A Generalized Evaluation of Deep Learning Inference Scaling and Architectural Saturation  
+Available on arXiv: https://arxiv.org/abs/2602.16858
+
 # gdev-ai-cpu-inference-benchmark
 
 Official artifact accompanying the arXiv preprint:
