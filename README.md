@@ -3,6 +3,7 @@
 ## 📄 Paper
 Official artifact accompanying the arXiv preprint:
 **GDEV-AI: A Generalized Evaluation of Deep Learning Inference Scaling and Architectural Saturation**
+
 Available on arXiv: https://arxiv.org/abs/2602.16858
 
 # gdev-ai-cpu-inference-benchmark
