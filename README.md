@@ -114,15 +114,13 @@ python run_cpu_inference_benchmark.py
 
 ## Recommended: Core Pinning (Modern Systems)
 
-To reduce scheduling noise and to match the results reported in the preprint, run the benchmark with core pinning. For a system with $N$ physical cores
+To reduce scheduling noise and to match the results reported in the preprint, run the benchmark with core pinning. For a system with $N$ physical cores and to avoids hyperthread scheduling interference.
 
 Example for a 24-core system:
 
 ``` bash
 taskset -c 0-23 python run_cpu_inference_benchmark.py
 ```
-
-Core pinning avoids hyperthread scheduling interference.
 
 ------------------------------------------------------------------------
 
